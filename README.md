@@ -17,6 +17,24 @@ Just run `yarn install` after cloning.
 -   Renders a simple page out of the box
 -   No configuration. Just start building your app.
 -   Pre-structured
+-   Different branches for different setups
+
+## Branches
+
+Because I don't always need all features, there are a few branches that have different base setups:
+
+-   master
+-   redux
+
+Use as in `git checkout redux`
+
+### Master
+
+A basic setup with no redux.
+
+### Redux
+
+A basic stup with redux pre-wired.
 
 ## Tools
 
