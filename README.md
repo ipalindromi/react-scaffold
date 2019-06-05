@@ -2,7 +2,7 @@
 
 This is a simple scaffolding project with a React frontend set up the way I use it 99% of the time. If you want to use it, or fork it, or whatever, great!
 
-I find myself wanting to through together React apps to test ideas all the time. It can be a pain to set everything up, even with a lot of practice, so I decided to just put everything here.
+I find myself wanting to throw together React apps to test ideas all the time. It can be a pain to set everything up, even with a lot of practice, so I decided to just put everything here.
 
 The point is to get up and prototyping **fast**.
 
